@@ -7,3 +7,4 @@
 * [ફ્રન્ટ-એન્ડ કોડ](https://github.com/xxai-art/web)
 * [સમગ્ર સાઇટ માટે ભાષા પેક](https://github.com/xxai-art/web/tree/main/i18n)
 * [લૉગિન મોડ્યુલો માટે ભાષા પેક](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [વેબસાઇટ બહુભાષી દસ્તાવેજીકરણ](https://github.com/xxai-doc)
