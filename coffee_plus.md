@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , કોફીસ્ક્રિપ્ટ સિન્ટેક્સના આધારે કેટલીક સુવિધાઓ ઉમેરો, [coffee_plus](./coffee_plus.md) જુઓ.
 
-* ચલ જાહેર કરો
+## ચલ જાહેર કરો
 
 ```
 + var1, var2
 ```
 
-* ઘોષણા લેબલ
+## ઘોષણા લેબલ
 
 `:$` [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) સાથે વાપરવા માટે છે.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ઝડપી આયાત
+## ઝડપી આયાત
 
 ```
 > zx/globals:
